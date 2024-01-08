@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="7780a607-d8e3-4ab7-a900-c4ea56d1bbba" name="变更" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1_猎聘数据爬取.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1_猎聘数据爬取.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_造图工程.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2_造图工程.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excels/上海/广告策划/2023-12-27/猎聘上海-广告策划-2023-12-27.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/excels/上海/广告策划/2023-12-27/猎聘上海-广告策划-2023-12-27.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excels/上海/广告策划/2023-12-27/猎聘上海_广告策划-平均薪资-2023-12-27.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/excels/上海/广告策划/2023-12-27/猎聘上海_广告策划-平均薪资-2023-12-27.xlsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +34,9 @@
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "D:/大三第一学期/Web_crawler/Web_crawler/期中测试/猎聘(已优化)",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -40,6 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1703663789637</updated>
       <workItem from="1703663790836" duration="276000" />
+      <workItem from="1704210494739" duration="592000" />
     </task>
     <servers />
   </component>
